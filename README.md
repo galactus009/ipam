@@ -25,3 +25,6 @@ Reserved customer_id: test41 with  192.168.10.0/24
 Reserved customer_id: test9 with  192.168.100.0/24
 Reserved customer_id: test78 with  192.168.101.0/24
 ```
+
+GUI ?
+you can use consul-gui to browse through the address space
